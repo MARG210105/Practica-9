@@ -1,0 +1,8 @@
+Dada una lista con 5 enteros,imprimir una lista
+
+#include <stdio.h>
+void main ()
+{
+  int list[5]={57,73,24,12,20};
+  int i;
+
